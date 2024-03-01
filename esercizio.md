@@ -11,7 +11,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 
 1. Vedere il listino delle pizze
     1. Prendere il listino delle pizze
-    2. Scorrere gli la lista delle pizze
+    2. Scorrere la lista delle pizze
 2. Scegliere la pizza
     1. Guarda ogni pizza
         1. SE è presente la prosciutto e funghi
